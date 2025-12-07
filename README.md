@@ -1,5 +1,4 @@
 # Generative-Artificial-Intelligence-Paper-Abstract-Generation
-```md
 # HW2 Paper Abstract Generation
 
 This repository contains my solution for HW2: **generate paper abstracts from paper introduction bodies**. The approach fine-tunes a lightweight LLM with LoRA and then generates abstracts for the test introductions. :contentReference[oaicite:0]{index=0}
