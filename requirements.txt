@@ -1,0 +1,5 @@
+torch>=2.0.0
+transformers>=4.36.0
+datasets>=2.10.0
+tqdm>=4.65.0
+unsloth>=0.1.0  # may need to be installed from source if not on PyPI
